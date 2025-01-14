@@ -1,0 +1,217 @@
+
+body{
+    background-image: linear-gradient(to left, midnightblue, darkblue ,blue, deepskyblue, skyblue);
+}
+h5{
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 2px 2px 7px black;
+}
+#t1{
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 2px 2px 7px black;
+}
+#t2{
+    margin-top: 55px;
+    display: block;
+    margin-left: auto;
+    margin-right: 43px;
+    font-size: 12pt;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    height: 65px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 2px 2px 7px black;
+}
+
+#txt1{
+    font-size: 13pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    width: 1030px;
+    height: 410px;
+    float: right;
+    text-align: center;
+    margin-left: 9px;
+    margin-right: 10px;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 7px 7px 7px black;
+    background-image: linear-gradient(to left, rgb(129, 129, 129), rgb(255, 255, 255));
+    border-radius: 15px;
+}
+#txt2{
+    display: block;
+    background-color: red;
+    width: 980px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 50px;
+    font-size: 13pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+    box-shadow: 7px 7px 7px black;
+    background-image: linear-gradient(to left, rgb(129, 129, 129), rgb(255, 255, 255));
+    border-radius: 15px;
+
+}
+#casalabraco{
+    cursor: pointer;
+    display: block;
+    margin-top: -20px;
+    width: 250px;
+    height: 450px;
+    margin-right: 70px;
+    float: right;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px black;
+}
+#casalbebendo{
+    cursor: pointer;
+    display: inline-block;
+    width: 200px;
+    margin-left: 70px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px black;
+}
+section{
+    background-image: radial-gradient(ellipse, rgb(255, 255, 255), rgb(220, 220, 220), rgb(200, 200, 200));
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#ctitle{
+    background: linear-gradient(to left, #ff0000, #ff7f00, #ffff00, #00ff00, #00ffff, #0000ff, #8b00ff);
+    background-size: 280px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 30pt;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 7px 10px 7px;
+    font-style: oblique;
+
+
+}
+#instagramdela{
+    margin-left: 25px;
+    font-size: 25pt;
+    width: 420px;
+    background: linear-gradient(to left, rgb(221, 221, 3), rgb(255, 0, 140), rgb(183, 0, 255));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+#instagramdele{
+    margin-left: 25px;
+    font-size: 25pt;
+    width: 600px;
+    background: linear-gradient(to left, rgb(221, 221, 3), rgb(255, 0, 140), rgb(183, 0, 255));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+#musicadela{
+    margin-left: 25px;
+    font-size: 25pt;
+    width: 550px;
+    background: linear-gradient(to left, rgb(4, 2, 117), rgb(3, 196, 255));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+#hidroponica{
+   height: 25px;
+   width: 250px;
+}
+#comidapreferida{
+    margin-left: 25px;
+    font-size: 25pt;
+    width: 680px;
+    background: linear-gradient(to left, rgb(255, 255, 0), rgb(0, 240, 12), rgb(255, 0, 0), rgb(196, 199, 3), rgb(31, 4, 179), rgb(158, 4, 120));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-size: 800px;
+}
+#visual{
+    margin-left: 25px;
+    font-size: 25pt;
+    width: 450px;
+    background: linear-gradient(to left, rgb(255, 3, 129), rgb(240, 0, 0));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+a{
+    color: blue;
+    font-style: oblique;
+}
+#rebeijinho{
+    display: block;
+    width: 300px;
+    height: 310px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+    border: 3px solid black;
+    cursor: pointer;
+}
+#proxp{
+    cursor: pointer;
+    margin-bottom: 8px;
+    margin-left: 25px;
+    border-radius: 8px;
+    box-shadow: 7px 7px 7px pink;
+}
+#comidapreferida{
+    cursor: pointer;
+}
+#senha{
+    color: darkblue;
+    width: 40px;
+    float: right;
+    display: block;
+    text-align: center;
+    font-size: 10pt;
+}
+#btnsenha{
+    cursor: pointer;
+    margin-bottom: 8px;
+    margin-left: 25px;
+    border-radius: 8px;
+    box-shadow: 7px 7px 7px gray;
+}
+#music{
+    font-size: 8pt;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    text-align: center;
+    display: block;
+    margin-top: 2px;
+    border: 2px solid black;
+    border-radius: 3px;
+    box-shadow: 2px 2px 7px black;
+}

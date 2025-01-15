@@ -29,9 +29,9 @@ let btnsenha = document.getElementById('btnsenha')
         proxp.style.backgroundColor = 'white'})
         
     proxp.addEventListener('click',function(){
-        window.location.href = 'index2.html';
+        window.open('index2.html');
     });
-    btnsenha.addEventListener('mouseenter', function(){
+    btnsenha.addEventListener('mouseenter', function(   ){
         btnsenha.style.backgroundColor = 'gray'});
     btnsenha.addEventListener('mouseleave' , function(){
         btnsenha.style.backgroundColor = 'white'});

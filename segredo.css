@@ -1,0 +1,31 @@
+body{
+background-image: url('img/loveer.jpg');
+background-size: cover;
+}
+section{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #EDE6D9;
+    width: 700px;
+    height: 480px;
+    background-color: pink;
+    font-size: 13pt;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 4px;
+    box-shadow: 10px 7px 7px white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#titulo{
+    align-content: center;
+    font-size: 20pt;
+    background-image: linear-gradient(to left, pink, rgb(252, 63, 63));
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    width: 350px;
+    height: 65px;
+    justify-self: center;
+    border: 2px solid black;
+    border-radius: 5px;
+}

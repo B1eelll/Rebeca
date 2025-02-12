@@ -42,7 +42,7 @@ let btnsenha = document.getElementById('btnsenha')
         if (senha != 220479){
             window.alert("Senha incorreta, Presta atenção Cabeçuda.")
         } else {
-            window.confirm('Você tem um Desejo! Pode me pedir oque quiser. Não precisa se acanhar por nada!')
+            window.location.href = 'segredo.html';
         }
     })
 

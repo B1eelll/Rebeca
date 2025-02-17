@@ -6,4 +6,3 @@ btnvoltar.addEventListener('click', function(){
 
 
 
-window.alert('Desculpa meu amor, vem ficar comigo no seu aniversário... ')

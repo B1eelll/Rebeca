@@ -1,9 +1,9 @@
 body{
-    background-color: rgb(209, 185, 231);
+    background-image: url(img/pinkbackground.jpeg);
 }
-h1{
+#title{
     font-size: 25px;
-    width: 900px;
+    width: 500px;
     background-color: rgb(255, 255, 255);
     margin: auto;
     margin-top: 30px;
@@ -13,4 +13,52 @@ h1{
     padding-top: 20px;
     padding-bottom: 20px;
     box-shadow: 2px 2px 7px black;
+    text-align: center;
+}
+#firsttitle{
+    text-align: center;
+}
+#firstsecsion{
+    margin-right: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: rgb(245, 245, 245);
+    width: 800px;
+    border: black solid 2px;
+}
+#secondtitle{
+    text-align: center;
+}
+#secondsecsion{
+    margin-left: auto;
+    margin-top: 20px;
+    margin-right: 10px;
+    background-color: rgb(245, 245, 245);
+    text-align: right;
+    width: 800px;
+    border: black solid 2px;
+}
+#desafio{
+    width: 800px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    margin-top: 30px;
+    border: 2px solid black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 2px 2px 7px black;
+    text-align: center;
+}
+#nome{
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(231, 1, 1);
+}
+#idade{
+    background-color: rgb(231, 1, 1);
+    border: 2px solid black;
+    border-radius: 7px;
+    width: 30px;
 }

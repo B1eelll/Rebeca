@@ -31,7 +31,7 @@ let btnsenha = document.getElementById('btnsenha')
     proxp.addEventListener('click',function(){
         window.open('index2.html');
     });
-    btnsenha.addEventListener('mouseenter', function(   ){
+    btnsenha.addEventListener('mouseenter', function(){
         btnsenha.style.backgroundColor = 'gray'});
     btnsenha.addEventListener('mouseleave' , function(){
         btnsenha.style.backgroundColor = 'white'});

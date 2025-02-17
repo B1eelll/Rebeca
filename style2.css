@@ -14,6 +14,7 @@ body{
     padding-bottom: 20px;
     box-shadow: 2px 2px 7px black;
     text-align: center;
+    box-shadow: 7px 7px 17px pink;
 }
 #firsttitle{
     text-align: center;
@@ -25,6 +26,7 @@ body{
     background-color: rgb(245, 245, 245);
     width: 800px;
     border: black solid 2px;
+    box-shadow: 7px 7px 17px pink;
 }
 #secondtitle{
     text-align: center;
@@ -37,6 +39,7 @@ body{
     text-align: right;
     width: 800px;
     border: black solid 2px;
+    box-shadow: 7px 7px 17px pink;
 }
 #desafio{
     width: 800px;
@@ -50,6 +53,7 @@ body{
     padding-bottom: 20px;
     box-shadow: 2px 2px 7px black;
     text-align: center;
+    box-shadow: 7px 7px 17px pink;
 }
 #nome{
     border: 2px solid black;
@@ -61,4 +65,71 @@ body{
     border: 2px solid black;
     border-radius: 7px;
     width: 30px;
+}
+#cor{
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(231, 1, 1);
+}
+#comida{
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(231, 1, 1);
+}
+#apaixonado{
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(231, 1, 1);
+}
+#faculdade{
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(231, 1, 1);
+}
+#calço{
+    background-color: rgb(231, 1, 1);
+    border: 2px solid black;
+    border-radius: 7px;
+    width: 30px;
+}
+#altura{
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(231, 1, 1);
+}
+#peso{
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(231, 1, 1);
+}
+#rebeca{
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(231, 1, 1);
+}
+#bunda{
+    border: 2px solid black;
+    border-radius: 7px;
+    background-color: rgb(231, 1, 1);
+}
+#filhos{
+    background-color: rgb(231, 1, 1);
+    border: 2px solid black;
+    border-radius: 7px;
+    width: 30px;
+}
+#enviar{
+    width: 150px;
+    height: 50px;
+    border: solid 2px black;
+    background-color: rgb(245, 227, 230);           
+    cursor: pointer;
+    box-shadow: 7px 7px 17px pink;
+}
+#btnvoltar{
+    cursor: pointer;
+    margin-bottom: 8px;
+    margin-left: 25px;
+    border-radius: 8px;
+    box-shadow: 7px 7px 7px pink;
 }

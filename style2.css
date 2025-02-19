@@ -133,3 +133,11 @@ body{
     border-radius: 8px;
     box-shadow: 7px 7px 7px pink;
 }
+#btnavancar{
+    cursor: pointer;
+    float: right;
+    margin-right: 25px;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    box-shadow: 7px 7px 7px pink;
+}

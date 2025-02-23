@@ -119,7 +119,7 @@ enviar.addEventListener('click', function(){
         rebeca.style.backgroundColor = 'red'
     } else {
         rebeca.style.backgroundColor ='green'
-        pontos += 1000
+        pontos += 8
         calcularPontuacao()
     }
 })

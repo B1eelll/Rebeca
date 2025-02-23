@@ -22,6 +22,9 @@ function calcularPontuacao() {
     pontuacao.textContent = pontos + ' pontos!'
 }
 
+enviar.addEventListener('click', function(){
+    resetarPontuação();
+})
 
 enviar.addEventListener('click' ,function(){
     if(nome.value != 'Gabriel Alcântara de Oliveira' && nome.value != 'gabriel alcântara de oliveira'){ //NOME
@@ -174,7 +177,7 @@ btnvoltar.addEventListener('click', function(){
 let btnavancar = document.getElementById('btnavancar')
 btnavancar.addEventListener('click', function(){
     if (pontos < 100){
-        window.alert('Você não atingiu a pontuação mínima para avançar!')
+        window.alert('Você Precisa de 100 pontos para avançar!')
     }
 })
 

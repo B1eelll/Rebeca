@@ -178,6 +178,8 @@ let btnavancar = document.getElementById('btnavancar')
 btnavancar.addEventListener('click', function(){
     if (pontos < 100){
         window.alert('Você Precisa de 100 pontos para avançar!')
+    } else {
+        windown.location.href = 'index3.html'
     }
 })
 

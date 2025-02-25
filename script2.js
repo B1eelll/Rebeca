@@ -27,7 +27,7 @@ enviar.addEventListener('click', function(){
 })
 
 enviar.addEventListener('click' ,function(){
-    if(nome.value != 'Gabriel Alcântara de Oliveira' && nome.value != 'gabriel alcântara de oliveira'){ //NOME
+    if(nome.value != 'Gabriel Alcântara de Oliveira' && nome.value != 'gabriel alcântara de oliveira' && nome.value != 'gabriel alcantara de oliveira'){ //NOME
         window.alert('Nome errado!')
         nome.style.backgroundColor = 'red'
     } else {
@@ -77,7 +77,7 @@ enviar.addEventListener('click', function(){
     }        
 })
 enviar.addEventListener('click', function(){
-    if (faculdade.value != 'Engenharia de Software'){ //FACULDADE
+    if (faculdade.value != 'Engenharia de Software' && faculdade.value != 'engenharia de software' ){ //FACULDADE
         window.alert('Não é isso que eu estudo!')
         faculdade.style.backgroundColor = 'red'
     } else {
@@ -107,7 +107,7 @@ enviar.addEventListener('click',function(){
     }
 })
 enviar.addEventListener('click', function(){
-    if (peso.value != '70kg' && peso.value != '70KG'){ //PESO   
+    if (peso.value != '70kg' && peso.value != '70KG' && peso.value != '70'){ //PESO   
         window.alert('Peso errado!')
         peso.style.backgroundColor = 'red'
     } else {
@@ -179,7 +179,7 @@ btnavancar.addEventListener('click', function(){
     if (pontos < 100){
         window.alert('Você Precisa de 100 pontos para avançar!')
     } else {
-        windown.location.href = 'index3.html'
+        window.location.href = 'index3.html';
     }
 })
 

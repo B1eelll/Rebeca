@@ -4,6 +4,6 @@ Site contendo páginas simples com diferentes estilos.
     O site contém um total de 4 páginas simples
   Site feito completamente com HTML, CSS e JavaScript
 Site 100% finalizado.
-<read.me/>    
+<read.me/>
 
 
